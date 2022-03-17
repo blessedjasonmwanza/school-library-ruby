@@ -3,3 +3,4 @@ class Nameable
       name.length >= 10 ? name[0..9].capitalize : name.capitalize
     end
   end
+  
