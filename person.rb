@@ -1,3 +1,5 @@
+# rubocop: disable Style/OptionalBooleanParameter
+
 require_relative 'corrector'
 require_relative 'rental'
 
