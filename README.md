@@ -17,7 +17,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Open terminal in cloned repo directory
 
-- then run ```bundle install```.
+- then run ```ruby main.rb```.
 
 ## Built With
 
